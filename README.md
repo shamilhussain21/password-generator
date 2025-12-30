@@ -1,5 +1,7 @@
 #  Password Generator (Python Mini Project)
 
+![Password Generator Screenshot](assets/IMG_1.png)
+
 A simple and interactive Python notebook that generates secure, customizable passwords.
 Users can define how many letters, numbers, and symbols they want, and the script creates a randomized password using Python's built-in libraries.
 
